@@ -112,11 +112,14 @@ Custom Image Prediction (Real-World Testing)
 
 Custom fruit images were captured using a smartphone and stored in the Custom/ folder.
 The trained model predicts:
+<img width="898" height="721" alt="image" src="https://github.com/user-attachments/assets/fcb6c0e6-6534-4de4-a6f3-e50656908a0d" />
 
 Fruit class
 
 Confidence percentage
 How to Run the Project
+<img width="1261" height="412" alt="image" src="https://github.com/user-attachments/assets/fc5210d9-d862-4cb2-b07b-7bf2881c2ab7" />
+
 
 **Open Google Colab**
 
