@@ -87,10 +87,14 @@ Device: CPU (stable & error-free)
 📈 Training Performance
 
 Training Loss vs Epoch plot
+<img width="759" height="548" alt="image" src="https://github.com/user-attachments/assets/da766294-afa6-4de9-ba09-8847f3b5c3a1" />
+<img width="719" height="553" alt="image" src="https://github.com/user-attachments/assets/9a4f34c1-40bb-46e5-9887-2fe6032463a7" />
+
 
 Training Accuracy vs Epoch plot
 📊 Evaluation & Analysis
 ✅ Confusion Matrix
+<img width="771" height="626" alt="image" src="https://github.com/user-attachments/assets/3eaed9c4-87e6-47a3-a32d-7cf1c40f5020" />
 
 A confusion matrix is generated on the test dataset to visualize classification performance for each fruit class.
 
